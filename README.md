@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thiagueraaa
 - 👀 I’m interested in Everything
 - 🌱 I’m currently learning C#, React, JavaScript and TypeScript
-- 📫 How to reach me thibruno55@gmail.com
+- 📫 How to reach me thibruno55@outlook.com
 - ⚡ Fun fact: I like to platinum games
